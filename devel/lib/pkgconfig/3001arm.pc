@@ -1,0 +1,8 @@
+prefix=/home/alex/catkin_ws/devel
+
+Name: 3001arm
+Description: Description of 3001arm
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/alex/catkin_ws/devel/lib 
+Requires: 
